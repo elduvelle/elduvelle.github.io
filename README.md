@@ -1,5 +1,5 @@
 ## elduvelle.github.io
-Archive of my Twitter posts 2020-2022, hosted on Github Pages at: https://elduvelle.github.io/
+Archive of my Twitter posts 2020-2022, hosted on Github Pages at: https://elduvelle.github.io/ (screenshot below)
 
 ![image](https://github.com/elduvelle/elduvelle.github.io/assets/64431932/1af0aa4f-4fc7-4a80-b977-52deed6e0903)
 
