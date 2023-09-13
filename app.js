@@ -143,4 +143,5 @@ function renderBrowse() {
   document.getElementById('browse-output').innerHTML += '<a href="#tabs">top &uarr;</a>';
 }
 
+sortResults('most-popular-browse');
 renderBrowse();
