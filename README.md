@@ -1,7 +1,7 @@
 ## elduvelle.github.io
 Archive of my Twitter posts 2020-2022, hosted on Github Pages at: https://elduvelle.github.io/ (screenshot below)
 
-![image](https://github.com/elduvelle/elduvelle.github.io/assets/64431932/1af0aa4f-4fc7-4a80-b977-52deed6e0903)
+![image](https://github.com/elduvelle/elduvelle.github.io/assets/64431932/42dac216-26f1-4e0e-baab-3f4a8a0f1c0b)
 
 
 ## HOW-TO Make the same one for you:
