@@ -7,7 +7,7 @@ Archive of my Twitter posts 2020-2022, hosted on Github Pages at: https://elduve
 ## HOW-TO Make the same one for you:
 
 ### 1. Download your twitter archive  
-From the [twitter website](https://twitter.com/), ooo > your account > Download an archive of your data > go through the verification steps > Request data > Come back to download it when you're notified that it's ready (it might take a few days)
+From the [twitter website](https://twitter.com/), ooo > Settings and privacy > Your account > Download an archive of your data > go through the verification steps > Request archive > Come back to download it when you're notified that it's ready (it might take a few days)
   
 ### 2. Create a [Github Pages](https://pages.github.com/) Website  
 _In more details:_  
